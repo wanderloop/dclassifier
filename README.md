@@ -17,5 +17,6 @@ You should have the following libraries on your system (Windows) cv2 numpy PIL s
 re 
 pyautogui
 Selenium
+Note:You need to make some basic changes in your code depending on you system 
 
 ---------
