@@ -1,4 +1,4 @@
-# Dclassifier(Reverse Image Search Based Object Recognition)
+# Dclassifier (Reverse Image Search Based Object Recognition)
 A Reverse Image Search Based Object Recognition Tool
 
 D-Classifier is a tool for recognizing objects using "Reverse Image Search by Google Combined with Segmentation Algorithm and 
