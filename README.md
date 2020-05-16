@@ -13,7 +13,7 @@ is extracted which tells us about the thing that the webcam saw-By this way we c
 help of this!
 
 System/Setup Requirements: 
-You should have the following libraries on your system cv2 numpy PIL selenium webdriver for Chrome/Firefox 
+You should have the following libraries on your system (Windows) cv2 numpy PIL selenium webdriver for Chrome/Firefox 
 re 
 pyautogui
 Selenium
